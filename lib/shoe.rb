@@ -1,5 +1,6 @@
 class Shoe
   attr_accessor :color
+  attr_writer :size
   attr_reader :brand
 
 
